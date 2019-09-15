@@ -1,0 +1,13 @@
+# Build folders
+output/*
+arm7/output/*
+arm9/output/*
+arm7/build/*
+arm9/build/*
+
+# Temp folders
+temp/*
+backup/*
+
+# Project folders
+.vscode/*
