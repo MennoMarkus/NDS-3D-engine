@@ -1,0 +1,3 @@
+[submodule "tools/NDS-Model-Exporter"]
+	path = tools/NDS-Model-Exporter
+	url = https://github.com/MennoMarkus/NDS-Model-Exporter
