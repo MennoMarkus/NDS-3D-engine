@@ -89,6 +89,7 @@ endif
  
 #---------------------------------------------------------------------------------
 $(BUILD):
+	@mkdir -p output
 	@[ -d $@ ] || mkdir -p $@
 	@$(MAKE) --no-print-directory -C $(BUILD) -f $(CURDIR)/Makefile
  
